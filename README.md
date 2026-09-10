@@ -1,16 +1,4 @@
-[ReadMe.md](https://github.com/user-attachments/files/32065376/ReadMe.md)
-## Hi there 👋
-
-<!--
-**priyanshigoyal120/priyanshigoyal120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 # Hi, I'm Priyanshi Goyal<br><br>### B.Tech Computer Science Engineering Student | Python | AI/ML | Full-Stack Development<br><br>I'm a B.Tech Computer Science Engineering student with hands-on experience in **Python, AI/ML, computer vision, data analysis, and full-stack development**.<br><br>My technical interests include building practical software solutions, working with structured data, and exploring AI-driven applications.<br><br>## Technical Skills<br><br>**Languages:**<br>Python · Java · JavaScript · TypeScript · SQL<br><br>**AI / Machine Learning:**<br>Machine Learning · Deep Learning · OpenCV · PyTorch · YOLOv5 · NLP · Generative AI · Face Recognition · RAG<br><br>**Web & Application Development:**<br>React · Next.js · Node.js · Express · Flutter<br><br>**Databases:**<br>MySQL · MongoDB · SQLite · PostgreSQL · Qdrant · Firebase<br><br>**Tools:**<br>Git · GitHub · Streamlit<br><br>## Featured Projects<br><br>### Smart Attendance System<br><br>Full-stack attendance tracking application built with **Node.js, Express, MongoDB, Flutter, and Dart**, featuring an MVC-based REST API backend and cross-platform mobile interface.<br><br>### Drone & Counter-Drone Computer Vision<br><br>Computer vision research focused on **drone detection and tracking**, developed during a research internship at **Dr. B.R. Ambedkar NIT Jalandhar** under the MeitY-funded SWAYAAN Project.<br><br>### Late Fusion — Multimodal Data Analysis<br><br>Python-based project exploring **late-fusion techniques for combining multiple data sources** for analysis.<br><br>## Experience<br><br>* **Research Intern — Computer Vision**, Dr. B.R. Ambedkar NIT Jalandhar<br>* **Python Programming Intern**, YBI Foundation<br>* **Data Entry Intern**, Ansh Intertrade<br><br>## Currently Learning<br><br>* Advanced Backend Development<br>* Machine Learning & Computer Vision<br>* Full-Stack Application Development<br>* Data Structures & Algorithms<br><br>## Connect With Me<br><br>GitHub: github.com/priyanshigoyal120<br>LinkedIn: linkedin.com/in/priyanshi-goyal-552104321<br>
 
 
@@ -37,7 +25,3 @@ Here are some ideas to get you started:
 [![](https://komarev.com/ghpvc/?username=priyanshigoyal120&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
